@@ -1,0 +1,15 @@
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\bin\Debug\netcoreapp3.1\myfirstCsharpApp.exe
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\bin\Debug\netcoreapp3.1\myfirstCsharpApp.deps.json
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\bin\Debug\netcoreapp3.1\myfirstCsharpApp.runtimeconfig.json
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\bin\Debug\netcoreapp3.1\myfirstCsharpApp.runtimeconfig.dev.json
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\bin\Debug\netcoreapp3.1\myfirstCsharpApp.dll
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\bin\Debug\netcoreapp3.1\myfirstCsharpApp.pdb
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\obj\Debug\netcoreapp3.1\myfirstCsharpApp.csprojAssemblyReference.cache
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\obj\Debug\netcoreapp3.1\myfirstCsharpApp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\obj\Debug\netcoreapp3.1\myfirstCsharpApp.AssemblyInfo.cs
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\obj\Debug\netcoreapp3.1\myfirstCsharpApp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\obj\Debug\netcoreapp3.1\myfirstCsharpApp.dll
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\obj\Debug\netcoreapp3.1\myfirstCsharpApp.pdb
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\obj\Debug\netcoreapp3.1\myfirstCsharpApp.genruntimeconfig.cache
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\xampp\htdocs\cursos\Csharp_Proyects\myfirstCsharpApp\obj\Debug\netcoreapp3.1\myfirstCsharpApp.csproj.CopyComplete

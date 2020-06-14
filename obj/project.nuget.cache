@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4d1YJvNk+IiznXeULe5eTwPgmDIvA9p8YPctI4cd5osFSgdYJDHHqwwYchpiTa8JT4jQGG8ctm8VE5st6neHVQ==",
+  "success": true,
+  "projectFilePath": "C:\\xampp\\htdocs\\cursos\\Csharp_Proyects\\myfirstCsharpApp\\myfirstCsharpApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruben\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
